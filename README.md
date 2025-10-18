@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanshahsahb&label=Profile%20views&color=0e75b6&style=flat" alt="adnanshahsahb" /> </p>
 
-- 🔭 I’m currently working on **3d Configurator**
+- 🔭 I’m currently working on making a **WEB BASED CAD**
 
-- 🌱 I’m currently learning **Next Js 13, Typescript,**
+- 🌱 I focus on solving **the problems**
 
 - 👨‍💻 All of my projects are available at [https://adnanshah-codegallery.web.app/](https://adnanshah-codegallery.web.app/)
 
