@@ -7,7 +7,7 @@
   
 - 👨‍💻 All of my projects are available at [https://adnanshah-codegallery.web.app/](https://adnanshah-codegallery.web.app/)
 
-- 💬 Ask me about **MERN Stack, THREE.js, Fabric.js, or any problem**
+- 💬 Ask me about **MERN Stack, Three.js, GLSL shaders, and problem solving**
 
 - 📫 How to reach me **aadnanshahh2001@gmail.com**
 
