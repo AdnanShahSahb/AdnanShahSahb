@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Shah</h1>
-<h3 align="center">A Software Engineer graduated from NUML-Islamabad with believing in his problem solving skills. </h3>
+<h3 align="center">A Software Engineer graduated from NUML-Islamabad focused on problem solving, 3D graphics. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanshahsahb&label=Profile%20views&color=0e75b6&style=flat" alt="adnanshahsahb" /> </p>
 
