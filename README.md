@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanshahsahb&label=Profile%20views&color=0e75b6&style=flat" alt="adnanshahsahb" /> </p>
 
-- 🔭 I’m currently working on **SHADERS**
-
+- 🔭 I’m currently learning and building with **GLSL shaders and WebGL (Three.js)**
+  
 - 👨‍💻 All of my projects are available at [https://adnanshah-codegallery.web.app/](https://adnanshah-codegallery.web.app/)
 
 - 💬 Ask me about **MERN Stack, THREE.js, Fabric.js, or any problem**
