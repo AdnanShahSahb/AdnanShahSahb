@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanshahsahb&label=Profile%20views&color=0e75b6&style=flat" alt="adnanshahsahb" /> </p>
 
-- 🔭 I’m currently working on making a **WEB BASED CAD**
-
-- 🌱 I focus on solving **the problems**
+- 🔭 I’m currently working on **SHADERS**
 
 - 👨‍💻 All of my projects are available at [https://adnanshah-codegallery.web.app/](https://adnanshah-codegallery.web.app/)
 
-- 👨‍💻 And for threeJs seeker click [https://adnanshah-codegallery.web.app/](https://adnanshah-codegallery.web.app/?showThreeJsProjects)
-
-- 💬 Ask me about **MERN Stack, THREE.js, Fabric.js**
+- 💬 Ask me about **MERN Stack, THREE.js, Fabric.js, or any problem**
 
 - 📫 How to reach me **aadnanshahh2001@gmail.com**
 
